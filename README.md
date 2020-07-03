@@ -1,7 +1,7 @@
 # format_text
 <H1>About</H1>
   <body>
-  A program created in the vi VIM vagrant programming environment in my Software Development Methods (UVIC SENG265 Summer 2020) class.<br><br> This is a C	program	that	inputs	lines	from stdin,	reads formatting	options	
+  A program created in my Software Development Methods class.<br><br> This is a C	program	that	inputs	lines	from stdin,	reads formatting	options	
 contained	within	that	stream	of	characters,	and	then	outputs	to	stdout the text	
 where	each	line	output	has	the	appropriate	width,	indenting,	etc.	as	indicated by	the	
 formatting	commands.
